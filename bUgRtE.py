@@ -1,5 +1,5 @@
 print('`````````````````````````````````')
-print('bug rte','coding by m0bindan')
+print('bug rte','coding by MONSTER_hp')
 print('DORK:inurl:RTE_POPUP_file_atch.asp')
 print('``````````````````````````````````')
 x =input('enter your sit: ')
