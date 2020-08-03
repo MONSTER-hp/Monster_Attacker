@@ -1,2 +1,1 @@
-# rte-bug
-:-\
+#MONSTER
